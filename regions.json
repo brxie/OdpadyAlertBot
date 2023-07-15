@@ -4,5 +4,146 @@
         "events_file": "event_files/test.json",
         "chat_id": "-1001981552523",
         "schedule_time": "7:35"
+    },
+    {
+        "id": "rawalowice",
+        "events_file": "event_files/rawalowice.json",
+        "chat_id": "-1001519647479",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "skrzeszowice",
+        "events_file": "event_files/skrzeszowice.json",
+        "chat_id": "-1001847796286",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "maciejowice",
+        "events_file": "event_files/maciejowice.json",
+        "chat_id": "-1001591773100",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "luborzyca",
+        "events_file": "event_files/luborzyca.json",
+        "chat_id": "-1001943747002",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "wola_luborzyca",
+        "events_file": "event_files/wola_luborzyca.json",
+        "chat_id": "-1001913755127",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "dojazdow",
+        "events_file": "event_files/dojazdow.json",
+        "chat_id": "-1001935909727",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "baranowka",
+        "events_file": "event_files/baranowka.json",
+        "chat_id": "-1001824904152",
+        "schedule_time": "9:20"
+    },
+    {
+        "id": "sulechow",
+        "events_file": "event_files/sulechow.json",
+        "chat_id": "-1001941422586",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "kocmyrzow",
+        "events_file": "event_files/kocmyrzow.json",
+        "chat_id": "-1001922464977",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "sadowie",
+        "events_file": "event_files/sadowie.json",
+        "chat_id": "-1001814500461",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "goszcza",
+        "events_file": "event_files/goszcza.json",
+        "chat_id": "-1001863555233",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "prusy",
+        "events_file": "event_files/prusy.json",
+        "chat_id": "-1001957111212",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "losokowice",
+        "events_file": "event_files/losokowice.json",
+        "chat_id": "-1001919130302",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "czulice",
+        "events_file": "event_files/czulice.json",
+        "chat_id": "-1001618375150",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "karniow",
+        "events_file": "event_files/karniow.json",
+        "chat_id": "-1001690165713",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "gleboka",
+        "events_file": "event_files/gleboka.json",
+        "chat_id": "-1001897922027",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "zastow",
+        "events_file": "event_files/zastow.json",
+        "chat_id": "-1001849907200",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "krzysztoforzyce",
+        "events_file": "event_files/krzysztoforzyce.json",
+        "chat_id": "-1001973825916",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "goszyce",
+        "events_file": "event_files/goszyce.json",
+        "chat_id": "-1001500795236",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "wysiolek_luborzycki",
+        "events_file": "event_files/wysiolek_luborzycki.json",
+        "chat_id": "-1001888345203",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "marszowice",
+        "events_file": "event_files/marszowice.json",
+        "chat_id": "-1001984668980",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "luczyce",
+        "events_file": "event_files/luczyce.json",
+        "chat_id": "-1001507020916",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "sadowie",
+        "events_file": "event_files/sadowie.json",
+        "chat_id": "-1001814500461",
+        "schedule_time": "16:00"
     }
 ]
+
+
+
