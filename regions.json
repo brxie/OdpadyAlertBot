@@ -1,0 +1,8 @@
+[
+    {
+        "id": "test",
+        "events_file": "event_files/test.json",
+        "chat_id": "-1001981552523",
+        "schedule_time": "7:35"
+    }
+]
