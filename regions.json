@@ -1,146 +1,164 @@
 [
     {
         "id": "test",
-        "events_file": "event_files/test.json",
+        "calendar_file": "calendar/test.json",
         "chat_id": "-1001981552523",
         "schedule_time": "7:35"
     },
     {
         "id": "rawalowice",
-        "events_file": "event_files/rawalowice.json",
+        "calendar_file": "calendar/rawalowice.json",
         "chat_id": "-1001519647479",
         "schedule_time": "16:00"
     },
     {
         "id": "skrzeszowice",
-        "events_file": "event_files/skrzeszowice.json",
+        "calendar_file": "calendar/skrzeszowice.json",
         "chat_id": "-1001847796286",
         "schedule_time": "16:00"
     },
     {
         "id": "maciejowice",
-        "events_file": "event_files/maciejowice.json",
+        "calendar_file": "calendar/maciejowice.json",
         "chat_id": "-1001591773100",
         "schedule_time": "16:00"
     },
     {
         "id": "luborzyca",
-        "events_file": "event_files/luborzyca.json",
+        "calendar_file": "calendar/luborzyca.json",
         "chat_id": "-1001943747002",
         "schedule_time": "16:00"
     },
     {
-        "id": "wola_luborzyca",
-        "events_file": "event_files/wola_luborzyca.json",
+        "id": "wola_luborzycka",
+        "calendar_file": "calendar/wola_luborzycka.json",
         "chat_id": "-1001913755127",
         "schedule_time": "16:00"
     },
     {
         "id": "dojazdow",
-        "events_file": "event_files/dojazdow.json",
+        "calendar_file": "calendar/dojazdow.json",
         "chat_id": "-1001935909727",
         "schedule_time": "16:00"
     },
     {
         "id": "baranowka",
-        "events_file": "event_files/baranowka.json",
+        "calendar_file": "calendar/baranowka.json",
         "chat_id": "-1001824904152",
-        "schedule_time": "9:20"
+        "schedule_time": "16:00"
     },
     {
         "id": "sulechow",
-        "events_file": "event_files/sulechow.json",
+        "calendar_file": "calendar/sulechow.json",
         "chat_id": "-1001941422586",
         "schedule_time": "16:00"
     },
     {
         "id": "kocmyrzow",
-        "events_file": "event_files/kocmyrzow.json",
+        "calendar_file": "calendar/kocmyrzow.json",
         "chat_id": "-1001922464977",
         "schedule_time": "16:00"
     },
     {
         "id": "sadowie",
-        "events_file": "event_files/sadowie.json",
+        "calendar_file": "calendar/sadowie.json",
         "chat_id": "-1001814500461",
         "schedule_time": "16:00"
     },
     {
         "id": "goszcza",
-        "events_file": "event_files/goszcza.json",
+        "calendar_file": "calendar/goszcza.json",
         "chat_id": "-1001863555233",
         "schedule_time": "16:00"
     },
     {
         "id": "prusy",
-        "events_file": "event_files/prusy.json",
+        "calendar_file": "calendar/prusy.json",
         "chat_id": "-1001957111212",
         "schedule_time": "16:00"
     },
     {
         "id": "losokowice",
-        "events_file": "event_files/losokowice.json",
+        "calendar_file": "calendar/losokowice.json",
         "chat_id": "-1001919130302",
         "schedule_time": "16:00"
     },
     {
         "id": "czulice",
-        "events_file": "event_files/czulice.json",
+        "calendar_file": "calendar/czulice.json",
         "chat_id": "-1001618375150",
         "schedule_time": "16:00"
     },
     {
         "id": "karniow",
-        "events_file": "event_files/karniow.json",
+        "calendar_file": "calendar/karniow.json",
         "chat_id": "-1001690165713",
         "schedule_time": "16:00"
     },
     {
         "id": "gleboka",
-        "events_file": "event_files/gleboka.json",
+        "calendar_file": "calendar/gleboka.json",
         "chat_id": "-1001897922027",
         "schedule_time": "16:00"
     },
     {
         "id": "zastow",
-        "events_file": "event_files/zastow.json",
+        "calendar_file": "calendar/zastow.json",
         "chat_id": "-1001849907200",
         "schedule_time": "16:00"
     },
     {
         "id": "krzysztoforzyce",
-        "events_file": "event_files/krzysztoforzyce.json",
+        "calendar_file": "calendar/krzysztoforzyce.json",
         "chat_id": "-1001973825916",
         "schedule_time": "16:00"
     },
     {
         "id": "goszyce",
-        "events_file": "event_files/goszyce.json",
+        "calendar_file": "calendar/goszyce.json",
         "chat_id": "-1001500795236",
         "schedule_time": "16:00"
     },
     {
         "id": "wysiolek_luborzycki",
-        "events_file": "event_files/wysiolek_luborzycki.json",
+        "calendar_file": "calendar/wysiolek_luborzycki.json",
         "chat_id": "-1001888345203",
         "schedule_time": "16:00"
     },
     {
         "id": "marszowice",
-        "events_file": "event_files/marszowice.json",
+        "calendar_file": "calendar/marszowice.json",
         "chat_id": "-1001984668980",
         "schedule_time": "16:00"
     },
     {
         "id": "luczyce",
-        "events_file": "event_files/luczyce.json",
+        "calendar_file": "calendar/luczyce.json",
         "chat_id": "-1001507020916",
         "schedule_time": "16:00"
     },
     {
         "id": "sadowie",
-        "events_file": "event_files/sadowie.json",
+        "calendar_file": "calendar/sadowie.json",
         "chat_id": "-1001814500461",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "wilkow",
+        "calendar_file": "calendar/wilkow.json",
+        "chat_id": "-1001845371951",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "pietrzejowice",
+        "calendar_file": "calendar/pietrzejowice.json",
+        "chat_id": "-1001976402424",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "wiktorowice",
+        "calendar_file": "calendar/wiktorowice.json",
+        "chat_id": "-1001933195011",
         "schedule_time": "16:00"
     }
 ]

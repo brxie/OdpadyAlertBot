@@ -14,7 +14,7 @@ type Event struct {
 func LoadEvents(fileName string) ([]Event, error) {
 	eventseFile, err := os.Open(fileName)
 	if err != nil {
-		return nil, fmt.Errorf("can not open events file: %v", err)
+		return nil, fmt.Errorf("can not open events file '%s': %v", fileName, err)
 	}
 
 	var e []Event

@@ -28,7 +28,7 @@ func main() {
 
 	errCh := make(chan error)
 	for _, r := range regions {
-		events, err := config.LoadEvents(r.EventsFile)
+		events, err := config.LoadEvents(r.CalendarFile)
 		if err != nil {
 			log.Fatal(err)
 		}

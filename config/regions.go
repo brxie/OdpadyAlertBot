@@ -11,7 +11,7 @@ const regionsFile = "regions.json"
 type Region struct {
 	ID           string `json:"id"`
 	ChatID       string `json:"chat_id"`
-	EventsFile   string `json:"events_file"`
+	CalendarFile string `json:"calendar_file"`
 	ScheduleTime string `json:"schedule_time"`
 }
 

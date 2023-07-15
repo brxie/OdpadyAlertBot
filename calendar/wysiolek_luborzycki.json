@@ -1,0 +1,131 @@
+[
+    {
+        "date": "2023-07-25",
+        "events": [
+            "odpady zmieszane",
+            "odpady BIO"
+        ]
+    },
+    {
+        "date": "2023-08-08",
+        "events": [
+            "odpady zmieszane",
+            "odpady BIO"
+        ]
+    },
+    {
+        "date": "2023-08-22",
+        "events": [
+            "odpady zmieszane",
+            "odpady BIO"
+        ]
+    },
+    {
+        "date": "2023-09-05",
+        "events": [
+            "odpady zmieszane",
+            "odpady BIO"
+        ]
+    },
+    {
+        "date": "2023-09-19",
+        "events": [
+            "odpady zmieszane",
+            "odpady BIO"
+        ]
+    },
+    {
+        "date": "2023-10-03",
+        "events": [
+            "odpady zmieszane",
+            "odpady BIO"
+        ]
+    },
+    {
+        "date": "2023-10-17",
+        "events": [
+            "odpady zmieszane",
+            "odpady BIO"
+        ]
+    },
+    {
+        "date": "2023-10-31",
+        "events": [
+            "odpady zmieszane",
+            "odpady BIO"
+        ]
+    },
+    {
+        "date": "2023-11-7",
+        "events": [
+            "odpady BIO"
+        ]
+    },
+    {
+        "date": "2023-11-14",
+        "events": [
+            "odpady zmieszane"
+        ]
+    },
+    {
+        "date": "2023-11-28",
+        "events": [
+            "odpady zmieszane"
+        ]
+    },
+    {
+        "date": "2023-12-5",
+        "events": [
+            "odpady BIO"
+        ]
+    },
+    {
+        "date": "2023-12-12",
+        "events": [
+            "odpady zmieszane"
+        ]
+    },
+    {
+        "date": "2023-12-30",
+        "events": [
+            "odpady zmieszane (za wtorek 26.12)"
+        ]
+    },
+    {
+        "date": "2023-08-04",
+        "events": [
+            "odpady segregowane"
+        ]
+    },
+    {
+        "date": "2023-09-01",
+        "events": [
+            "odpady segregowane"
+        ]
+    },
+    {
+        "date": "2023-10-06",
+        "events": [
+            "odpady segregowane"
+        ]
+    },
+    {
+        "date": "2023-11-03",
+        "events": [
+            "odpady segregowane"
+        ]
+    },
+    {
+        "date": "2023-12-01",
+        "events": [
+            "odpady segregowane"
+        ]
+    },
+    {
+        "date": "2023-11-09",
+        "events": [
+            "odpady wielogabarytowe",
+            "zużyty sprzęt RTV i AGD"
+        ]
+    }
+]
