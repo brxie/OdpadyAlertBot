@@ -27,9 +27,9 @@ func SchedulerCallback(client *telegram.Telegram, region config.Region) func(e c
 			var reqErr *telegram.RequestError
 			switch {
 			case errors.As(err, &reqErr):
-				log.Printf("sending message response error: %s, body: %s", reqErr.Error(), reqErr.ResponseBody)
+				log.Printf("sending message response error: %s, region: '%s'. body: %s", reqErr.Error(), region.ID, reqErr.ResponseBody)
 			default:
-				log.Printf("sending message error %v", err)
+				log.Printf("sending message error: %v, region: '%s'", err, region.ID)
 			}
 		}
 	}

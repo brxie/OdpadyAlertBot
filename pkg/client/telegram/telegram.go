@@ -6,7 +6,6 @@ import (
 	"errors"
 	"fmt"
 	"io"
-	"log"
 	"net/http"
 )
 
@@ -55,7 +54,7 @@ func (t *Telegram) SendMessage(chatID, text string) error {
 
 	payload, err := json.Marshal(message)
 	if err != nil {
-		log.Fatalf("impossible to marshall teacher: %s", err)
+		return err
 	}
 
 	req, err := http.NewRequest(http.MethodPost, url, bytes.NewBuffer(payload))
