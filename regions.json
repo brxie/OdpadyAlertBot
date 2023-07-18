@@ -2,8 +2,8 @@
     {
         "id": "test",
         "calendar_file": "calendar/test.json",
-        "chat_id": "-1001981552523",
-        "schedule_time": "9:50"
+        "chat_id": "-1001943628337",
+        "schedule_time": "23:14"
     },
     {
         "id": "rawalowice",
@@ -45,7 +45,7 @@
         "id": "baranowka",
         "calendar_file": "calendar/baranowka.json",
         "chat_id": "-1001824904152",
-        "schedule_time": "16:00"
+        "schedule_time": "18:33"
     },
     {
         "id": "sulechow",
@@ -132,9 +132,15 @@
         "schedule_time": "16:00"
     },
     {
-        "id": "luczyce",
-        "calendar_file": "calendar/luczyce.json",
+        "id": "luczyce_krakowska",
+        "calendar_file": "calendar/luczyce_krakowska.json",
         "chat_id": "-1001507020916",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "luczyce_pradnik",
+        "calendar_file": "calendar/luczyce_pradnik.json",
+        "chat_id": "-1001943628337",
         "schedule_time": "16:00"
     },
     {
@@ -153,7 +159,7 @@
         "id": "pietrzejowice",
         "calendar_file": "calendar/pietrzejowice.json",
         "chat_id": "-1001976402424",
-        "schedule_time": "16:00"
+        "schedule_time": "18:45"
     },
     {
         "id": "wiktorowice",
