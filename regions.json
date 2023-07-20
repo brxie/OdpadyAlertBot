@@ -144,12 +144,6 @@
         "schedule_time": "16:00"
     },
     {
-        "id": "sadowie",
-        "calendar_file": "calendar/sadowie.json",
-        "chat_id": "-1001814500461",
-        "schedule_time": "16:00"
-    },
-    {
         "id": "wilkow",
         "calendar_file": "calendar/wilkow.json",
         "chat_id": "-1001845371951",
@@ -159,7 +153,7 @@
         "id": "pietrzejowice",
         "calendar_file": "calendar/pietrzejowice.json",
         "chat_id": "-1001976402424",
-        "schedule_time": "18:45"
+        "schedule_time": "16:00"
     },
     {
         "id": "wiktorowice",
