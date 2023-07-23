@@ -6,7 +6,9 @@ import (
 	"errors"
 	"fmt"
 	"io"
+	"mime/multipart"
 	"net/http"
+	"net/url"
 )
 
 type Telegram struct {
@@ -62,6 +64,55 @@ func (t *Telegram) SendMessage(chatID, text string) error {
 		return err
 	}
 	req.Header.Set("Content-Type", "application/json")
+
+	resp, err := t.client.Do(req)
+	if err != nil {
+		return err
+	}
+	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		reqErr := &RequestError{
+			ResponseCode: resp.StatusCode,
+		}
+
+		respBytes, err := io.ReadAll(resp.Body)
+		if err != nil {
+			reqErr.Msg = "unexpected status code; failed to read response body"
+			return reqErr
+		}
+
+		reqErr.Msg = fmt.Sprintf("unexpected status code %d", resp.StatusCode)
+		reqErr.ResponseBody = respBytes
+
+		return reqErr
+	}
+
+	return nil
+}
+
+func (t *Telegram) SendPhoto(chatID, text string, photo []byte) error {
+	url := fmt.Sprintf("https://api.telegram.org/bot%s/sendPhoto?chat_id=%s&caption=%s",
+		t.token, chatID, url.QueryEscape(text))
+
+	body := &bytes.Buffer{}
+	writer := multipart.NewWriter(body)
+	fw, err := writer.CreateFormFile("photo", "logo.png")
+	if err != nil {
+		return err
+	}
+
+	_, err = io.WriteString(fw, string(photo))
+	if err != nil {
+		return err
+	}
+	writer.Close()
+
+	req, err := http.NewRequest(http.MethodPost, url, bytes.NewReader(body.Bytes()))
+	if err != nil {
+		return err
+	}
+	req.Header.Set("Content-Type", writer.FormDataContentType())
 
 	resp, err := t.client.Do(req)
 	if err != nil {

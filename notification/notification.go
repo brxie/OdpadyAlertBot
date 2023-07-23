@@ -11,9 +11,9 @@ import (
 	"github.com/brxie/OdpadyAlertBot/pkg/client/telegram"
 )
 
-const notifiFmtStrPL = "♻️ jutro (%s) odbiór odpadów 🚛:\n"
+const notifiFmtStrPL = "🔔 jutro (%s) odbiór odpadów:\n"
 
-func SchedulerCallback(client *telegram.Telegram, region config.Region) func(e config.Event, scheduledDate time.Time) {
+func SchedulerCallback(client *telegram.Telegram, region config.Region, logo []byte) func(e config.Event, scheduledDate time.Time) {
 
 	return func(e config.Event, scheduledDate time.Time) {
 		var sb strings.Builder
@@ -23,7 +23,7 @@ func SchedulerCallback(client *telegram.Telegram, region config.Region) func(e c
 			sb.WriteString(fmt.Sprintf("👉 %s\n", evtName))
 		}
 
-		if err := client.SendMessage(region.ChatID, sb.String()); err != nil {
+		if err := client.SendPhoto(region.ChatID, sb.String(), logo); err != nil {
 			var reqErr *telegram.RequestError
 			switch {
 			case errors.As(err, &reqErr):

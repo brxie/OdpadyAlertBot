@@ -1,6 +1,7 @@
 package main
 
 import (
+	_ "embed"
 	"log"
 	"os"
 
@@ -9,6 +10,9 @@ import (
 	"github.com/brxie/OdpadyAlertBot/pkg/client/telegram"
 	"github.com/brxie/OdpadyAlertBot/scheduler"
 )
+
+//go:embed assets/logo.png
+var logo []byte
 
 func main() {
 	token := os.Getenv("BOT_TOKEN")
@@ -32,7 +36,7 @@ func main() {
 		if err != nil {
 			log.Fatal(err)
 		}
-		go scheduler.Run(r, events, errCh, notification.SchedulerCallback(client, r))
+		go scheduler.Run(r, events, errCh, notification.SchedulerCallback(client, r, logo))
 	}
 
 	for {
