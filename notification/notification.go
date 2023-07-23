@@ -20,7 +20,7 @@ func SchedulerCallback(client *telegram.Telegram, region config.Region, logo []b
 		weekDay := getWeekdayPL(int(scheduledDate.Weekday()))
 		sb.WriteString(fmt.Sprintf(notifiFmtStrPL, weekDay))
 		for _, evtName := range e.Events {
-			sb.WriteString(fmt.Sprintf("👉 %s\n", evtName))
+			sb.WriteString(fmt.Sprintf("➡️ %s\n", evtName))
 		}
 
 		if err := client.SendPhoto(region.ChatID, sb.String(), logo); err != nil {
