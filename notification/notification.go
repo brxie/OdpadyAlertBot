@@ -11,7 +11,7 @@ import (
 	"github.com/brxie/OdpadyAlertBot/pkg/client/telegram"
 )
 
-const notifiFmtStrPL = "🔔 jutro (%s) odbiór odpadów:\n"
+const notifiFmtStrPL = "🔔 jutro (%s) odbiór odpadów:\n\n"
 
 func SchedulerCallback(client *telegram.Telegram, region config.Region, logo []byte) func(e config.Event, scheduledDate time.Time) {
 
@@ -37,12 +37,12 @@ func SchedulerCallback(client *telegram.Telegram, region config.Region, logo []b
 
 func getWeekdayPL(dayNumber int) string {
 	weekdays := []string{
-		"Poniedziałek",
-		"Wtorek",
-		"Środa",
-		"Czwartek",
-		"Piątek",
-		"Sobota",
-		"Niedziela"}
+		"poniedziałek",
+		"wtorek",
+		"środa",
+		"czwartek",
+		"piątek",
+		"sobota",
+		"niedziela"}
 	return weekdays[dayNumber]
 }
