@@ -3,165 +3,198 @@
         "id": "test",
         "calendar_file": "calendar/test.json",
         "chat_id": "-1001981552523",
-        "schedule_time": "07:30"
+        "schedule_time": "21:48"
     },
     {
-        "id": "rawalowice",
-        "calendar_file": "calendar/rawalowice.json",
+        "id": "kocmyrzow_luborzyca/rawalowice",
+        "calendar_file": "calendar/kocmyrzow_luborzyca/rawalowice.json",
         "chat_id": "-1001519647479",
         "schedule_time": "16:00"
     },
     {
-        "id": "skrzeszowice",
-        "calendar_file": "calendar/skrzeszowice.json",
+        "id": "kocmyrzow_luborzyca/skrzeszowice",
+        "calendar_file": "calendar/kocmyrzow_luborzyca/skrzeszowice.json",
         "chat_id": "-1001847796286",
         "schedule_time": "16:00"
     },
     {
-        "id": "maciejowice",
-        "calendar_file": "calendar/maciejowice.json",
+        "id": "kocmyrzow_luborzyca/maciejowice",
+        "calendar_file": "calendar/kocmyrzow_luborzyca/maciejowice.json",
         "chat_id": "-1001591773100",
         "schedule_time": "16:00"
     },
     {
-        "id": "luborzyca",
-        "calendar_file": "calendar/luborzyca.json",
+        "id": "kocmyrzow_luborzyca/luborzyca",
+        "calendar_file": "calendar/kocmyrzow_luborzyca/luborzyca.json",
         "chat_id": "-1001943747002",
         "schedule_time": "16:00"
     },
     {
-        "id": "wola_luborzycka",
-        "calendar_file": "calendar/wola_luborzycka.json",
+        "id": "kocmyrzow_luborzyca/wola_luborzycka",
+        "calendar_file": "calendar/kocmyrzow_luborzyca/wola_luborzycka.json",
         "chat_id": "-1001913755127",
         "schedule_time": "16:00"
     },
     {
-        "id": "dojazdow",
-        "calendar_file": "calendar/dojazdow.json",
+        "id": "kocmyrzow_luborzyca/dojazdow",
+        "calendar_file": "calendar/kocmyrzow_luborzyca/dojazdow.json",
         "chat_id": "-1001935909727",
         "schedule_time": "16:00"
     },
     {
-        "id": "baranowka",
-        "calendar_file": "calendar/baranowka.json",
+        "id": "kocmyrzow_luborzyca/baranowka",
+        "calendar_file": "calendar/kocmyrzow_luborzyca/baranowka.json",
         "chat_id": "-1001824904152",
         "schedule_time": "18:33"
     },
     {
-        "id": "sulechow",
-        "calendar_file": "calendar/sulechow.json",
+        "id": "kocmyrzow_luborzyca/sulechow",
+        "calendar_file": "calendar/kocmyrzow_luborzyca/sulechow.json",
         "chat_id": "-1001941422586",
         "schedule_time": "16:00"
     },
     {
-        "id": "kocmyrzow",
-        "calendar_file": "calendar/kocmyrzow.json",
+        "id": "kocmyrzow_luborzyca/kocmyrzow",
+        "calendar_file": "calendar/kocmyrzow_luborzyca/kocmyrzow.json",
         "chat_id": "-1001922464977",
         "schedule_time": "16:00"
     },
     {
-        "id": "sadowie",
-        "calendar_file": "calendar/sadowie.json",
+        "id": "kocmyrzow_luborzyca/sadowie",
+        "calendar_file": "calendar/kocmyrzow_luborzyca/sadowie.json",
         "chat_id": "-1001814500461",
         "schedule_time": "16:00"
     },
     {
-        "id": "goszcza",
-        "calendar_file": "calendar/goszcza.json",
+        "id": "kocmyrzow_luborzyca/goszcza",
+        "calendar_file": "calendar/kocmyrzow_luborzyca/goszcza.json",
         "chat_id": "-1001863555233",
         "schedule_time": "16:00"
     },
     {
-        "id": "prusy",
-        "calendar_file": "calendar/prusy.json",
+        "id": "kocmyrzow_luborzyca/prusy",
+        "calendar_file": "calendar/kocmyrzow_luborzyca/prusy.json",
         "chat_id": "-1001957111212",
         "schedule_time": "16:00"
     },
     {
-        "id": "losokowice",
-        "calendar_file": "calendar/losokowice.json",
+        "id": "kocmyrzow_luborzyca/losokowice",
+        "calendar_file": "calendar/kocmyrzow_luborzyca/losokowice.json",
         "chat_id": "-1001919130302",
         "schedule_time": "16:00"
     },
     {
-        "id": "czulice",
-        "calendar_file": "calendar/czulice.json",
+        "id": "kocmyrzow_luborzyca/czulice",
+        "calendar_file": "calendar/kocmyrzow_luborzyca/czulice.json",
         "chat_id": "-1001618375150",
         "schedule_time": "16:00"
     },
     {
-        "id": "karniow",
-        "calendar_file": "calendar/karniow.json",
+        "id": "kocmyrzow_luborzyca/karniow",
+        "calendar_file": "calendar/kocmyrzow_luborzyca/karniow.json",
         "chat_id": "-1001690165713",
         "schedule_time": "16:00"
     },
     {
-        "id": "gleboka",
-        "calendar_file": "calendar/gleboka.json",
+        "id": "kocmyrzow_luborzyca/gleboka",
+        "calendar_file": "calendar/kocmyrzow_luborzyca/gleboka.json",
         "chat_id": "-1001897922027",
         "schedule_time": "16:00"
     },
     {
-        "id": "zastow",
-        "calendar_file": "calendar/zastow.json",
+        "id": "kocmyrzow_luborzyca/zastow",
+        "calendar_file": "calendar/kocmyrzow_luborzyca/zastow.json",
         "chat_id": "-1001849907200",
         "schedule_time": "16:00"
     },
     {
-        "id": "krzysztoforzyce",
-        "calendar_file": "calendar/krzysztoforzyce.json",
+        "id": "kocmyrzow_luborzyca/krzysztoforzyce",
+        "calendar_file": "calendar/kocmyrzow_luborzyca/krzysztoforzyce.json",
         "chat_id": "-1001973825916",
         "schedule_time": "16:00"
     },
     {
-        "id": "goszyce",
-        "calendar_file": "calendar/goszyce.json",
+        "id": "kocmyrzow_luborzyca/goszyce",
+        "calendar_file": "calendar/kocmyrzow_luborzyca/goszyce.json",
         "chat_id": "-1001500795236",
         "schedule_time": "16:00"
     },
     {
-        "id": "wysiolek_luborzycki",
-        "calendar_file": "calendar/wysiolek_luborzycki.json",
+        "id": "kocmyrzow_luborzyca/wysiolek_luborzycki",
+        "calendar_file": "calendar/kocmyrzow_luborzyca/wysiolek_luborzycki.json",
         "chat_id": "-1001888345203",
         "schedule_time": "16:00"
     },
     {
-        "id": "marszowice",
-        "calendar_file": "calendar/marszowice.json",
+        "id": "kocmyrzow_luborzyca/marszowice",
+        "calendar_file": "calendar/kocmyrzow_luborzyca/marszowice.json",
         "chat_id": "-1001984668980",
         "schedule_time": "16:00"
     },
     {
-        "id": "luczyce_krakowska",
-        "calendar_file": "calendar/luczyce_krakowska.json",
+        "id": "kocmyrzow_luborzyca/luczyce_krakowska",
+        "calendar_file": "calendar/kocmyrzow_luborzyca/luczyce_krakowska.json",
         "chat_id": "-1001507020916",
         "schedule_time": "16:00"
     },
     {
-        "id": "luczyce_pradnik",
-        "calendar_file": "calendar/luczyce_pradnik.json",
+        "id": "kocmyrzow_luborzyca/luczyce_pradnik",
+        "calendar_file": "calendar/kocmyrzow_luborzyca/luczyce_pradnik.json",
         "chat_id": "-1001943628337",
         "schedule_time": "16:00"
     },
     {
-        "id": "wilkow",
-        "calendar_file": "calendar/wilkow.json",
+        "id": "kocmyrzow_luborzyca/wilkow",
+        "calendar_file": "calendar/kocmyrzow_luborzyca/wilkow.json",
         "chat_id": "-1001845371951",
         "schedule_time": "16:00"
     },
     {
-        "id": "pietrzejowice",
-        "calendar_file": "calendar/pietrzejowice.json",
+        "id": "kocmyrzow_luborzyca/pietrzejowice",
+        "calendar_file": "calendar/kocmyrzow_luborzyca/pietrzejowice.json",
         "chat_id": "-1001976402424",
         "schedule_time": "16:00"
     },
     {
-        "id": "wiktorowice",
-        "calendar_file": "calendar/wiktorowice.json",
+        "id": "kocmyrzow_luborzyca/wiktorowice",
+        "calendar_file": "calendar/kocmyrzow_luborzyca/wiktorowice.json",
         "chat_id": "-1001933195011",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "niepolomice/wola_batorska_1",
+        "calendar_file": "calendar/niepolomice/wola_batorska_1.json",
+        "chat_id": "-1001531500050",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "niepolomice/wola_batorska_2",
+        "calendar_file": "calendar/niepolomice/wola_batorska_2.json",
+        "chat_id": "-1001892950518",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "niepolomice/wola_batorska_3",
+        "calendar_file": "calendar/niepolomice/wola_batorska_3.json",
+        "chat_id": "-1001939737493",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "niepolomice/wola_batorska_4",
+        "calendar_file": "calendar/niepolomice/wola_batorska_4.json",
+        "chat_id": "-1001842596294",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "niepolomice/wola_zabierzowska_1",
+        "calendar_file": "calendar/niepolomice/wola_zabierzowska_1.json",
+        "chat_id": "-1001790321158",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "niepolomice/wola_zabierzowska_2",
+        "calendar_file": "calendar/niepolomice/wola_zabierzowska_2.json",
+        "chat_id": "-1001917498530",
         "schedule_time": "16:00"
     }
 ]
-
-
-

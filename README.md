@@ -2,6 +2,7 @@
 
 ## Telegram channels:
 
+### Kocmyrzów Luborzyca
 
 | Area                        |        Telegram Channel        |
 | --------------------------- | :----------------------------: |
@@ -32,3 +33,14 @@
 | Wola Luborzycka             | https://t.me/+roY6A_a2iGkxMGRk |
 | Wysiołek Luborzycki         | https://t.me/+CwD5OVKuiL81OTlk |
 | Zastów                      | https://t.me/+selJBGZGhHI2N2Rk |
+
+### Niepołomice
+
+| Area                       |        Telegram Channel        |
+| -------------------------- | :----------------------------: |
+| Odpady Wola Batorska 1     | https://t.me/+lRXw9Qz_uzo2Y2Q8 |
+| Odpady Wola Batorska 2     | https://t.me/+rEGvjvZZt1M5Nzhk |
+| Odpady Wola Batorska 3     | https://t.me/+MeTEcXd_AdkxNjFk |
+| Odpady Wola Batorska 4     | https://t.me/+UCdSbrgjCgNmYWVk |
+| Odpady Wola Zabierzowska 1 | https://t.me/+yDwK98_oxwI3OTdk |
+| Odpady Wola Zabierzowska 2 | https://t.me/+vaI_KHJO_RozMGE0 |
