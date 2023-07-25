@@ -11,9 +11,6 @@ import (
 	"github.com/brxie/OdpadyAlertBot/scheduler"
 )
 
-//go:embed assets/logo.png
-var logo []byte
-
 func main() {
 	token := os.Getenv("BOT_TOKEN")
 	if token == "" {
@@ -36,7 +33,7 @@ func main() {
 		if err != nil {
 			log.Fatal(err)
 		}
-		go scheduler.Run(r, events, errCh, notification.SchedulerCallback(client, r, logo))
+		go scheduler.Run(r, events, errCh, notification.SchedulerCallback(client, r))
 	}
 
 	for {
