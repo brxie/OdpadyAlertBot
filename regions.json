@@ -196,5 +196,48 @@
         "calendar_file": "calendar/niepolomice/wola_zabierzowska_2.json",
         "chat_id": "-1001917498530",
         "schedule_time": "16:00"
+    },
+
+    {
+        "id": "niepolomice/chobot",
+        "calendar_file": "calendar/niepolomice/chobot.json",
+        "chat_id": "-1001974964713",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "niepolomice/ochmanow",
+        "calendar_file": "calendar/niepolomice/ochmanow.json",
+        "chat_id": "-1001657047267",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "niepolomice/slomirog",
+        "calendar_file": "calendar/niepolomice/slomirog.json",
+        "chat_id": "-1001932582239",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "niepolomice/zabierzow_bochenski_1",
+        "calendar_file": "calendar/niepolomice/zabierzow_bochenski_1.json",
+        "chat_id": "-1001969823923",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "niepolomice/zabierzow_bochenski_2",
+        "calendar_file": "calendar/niepolomice/zabierzow_bochenski_2.json",
+        "chat_id": "-1001878733982",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "niepolomice/zakrzow",
+        "calendar_file": "calendar/niepolomice/zakrzow.json",
+        "chat_id": "-1001939973485",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "niepolomice/zakrzowiec",
+        "calendar_file": "calendar/niepolomice/zakrzowiec.json",
+        "chat_id": "-1001813688634",
+        "schedule_time": "16:00"
     }
 ]

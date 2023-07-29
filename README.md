@@ -36,11 +36,18 @@
 
 ### Niepołomice
 
-| Area                       |        Telegram Channel        |
-| -------------------------- | :----------------------------: |
-| Odpady Wola Batorska 1     | https://t.me/+lRXw9Qz_uzo2Y2Q8 |
-| Odpady Wola Batorska 2     | https://t.me/+rEGvjvZZt1M5Nzhk |
-| Odpady Wola Batorska 3     | https://t.me/+MeTEcXd_AdkxNjFk |
-| Odpady Wola Batorska 4     | https://t.me/+UCdSbrgjCgNmYWVk |
-| Odpady Wola Zabierzowska 1 | https://t.me/+yDwK98_oxwI3OTdk |
-| Odpady Wola Zabierzowska 2 | https://t.me/+vaI_KHJO_RozMGE0 |
+| Area                  |        Telegram Channel        |
+| --------------------- | :----------------------------: |
+| Chobot                | https://t.me/+fqfNOYYEEhplNGQ0 |
+| Ochmanów              | https://t.me/+dbrf08u93Ts2M2E0 |
+| Słomiróg              | https://t.me/+W_KA3ctb3eQzNzNk |
+| Wola Batorska 1       | https://t.me/+lRXw9Qz_uzo2Y2Q8 |
+| Wola Batorska 2       | https://t.me/+rEGvjvZZt1M5Nzhk |
+| Wola Batorska 3       | https://t.me/+MeTEcXd_AdkxNjFk |
+| Wola Batorska 4       | https://t.me/+UCdSbrgjCgNmYWVk |
+| Wola Zabierzowska 1   | https://t.me/+yDwK98_oxwI3OTdk |
+| Wola Zabierzowska 2   | https://t.me/+vaI_KHJO_RozMGE0 |
+| Zabierzów Bocheński 1 | https://t.me/+BQwOIb5osiZhOWM0 |
+| Zabierzów Bocheński 2 | https://t.me/+YQ-mc0YoapszMTM8 |
+| Zakrzów               | https://t.me/+n8dhQBMPaFg2ZTU0 |
+| Zakrzowiec            | https://t.me/+VlpIEsn6lyE1NDJk |
