@@ -197,7 +197,6 @@
         "chat_id": "-1001917498530",
         "schedule_time": "16:00"
     },
-
     {
         "id": "niepolomice/chobot",
         "calendar_file": "calendar/niepolomice/chobot.json",
@@ -238,6 +237,69 @@
         "id": "niepolomice/zakrzowiec",
         "calendar_file": "calendar/niepolomice/zakrzowiec.json",
         "chat_id": "-1001813688634",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "niepolomice/niepolomice_1",
+        "description": "Akacjowa, Batorego, Bażantowa, Flisaków, Kasztanowa, Kolejowa, Krzywa, Kwiatowa, Magnolii, Na Grobli, Na Grobli - po drugiej stronie drogi krajowej nr 75, Na Tamie, Nowa, Pionierów, Podwale, Pogodna, Powiśle, Prosta, Radosna, Stawowa, Stroma, Topolowa, Wesoła, Wiślana, Wiśniow",
+        "calendar_file": "calendar/niepolomice/niepolomice_1.json",
+        "chat_id": "-1001842537111",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "niepolomice/niepolomice_2",
+        "description": "Boczna, Czackiej, os. Kaptarz, Klonowa, Krucza, Lawendowa, Łanowa, Orzechowa, Nagietkowa, Pociągów Pancernych, Rumiankowa, Słoneczna, Suszowka, os. Suszówka, Szałwiowa, Trudna, Wroniarka, W. Kluska, Zabierzowska, Zabłocie, Zacisze, Zielona, Orzechowa",
+        "calendar_file": "calendar/niepolomice/niepolomice_2.json",
+        "chat_id": "-1001903242438",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "niepolomice/niepolomice_3",
+        "description": "6- Batalionu, Balonowa, Brzezinki, Czerwonych Beretów, Graniczna, Komandosów, Lotnicza, Ludowa, Nawigatorów, Mokra, Oficerska, Olchowa, Płaszowska, Pilotów, Podoficerska, Polna, Potasińskiego ,Przyjazna, Saperów, Spadochroniarzy, Strzelców, Wielicka, Wrzosowa, Wimmera",
+        "calendar_file": "calendar/niepolomice/niepolomice_3.json",
+        "chat_id": "-1001928108775",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "niepolomice/niepolomice_4",
+        "description": "3 Maja , Al. Dębowa, Borówkowa, Cmentarna, Daszyńskiego, Jagiellońska, Jodłowa, Kościuszki, łąkowa, Makosza, Malinowskiego, Malinowa, Piękna, Pileckiego, Poziomkowa,PodIasie, 5taniątecka, Wiejska",
+        "calendar_file": "calendar/niepolomice/niepolomice_4.json",
+        "chat_id": "-1001879260700",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "niepolomice/niepolomice_5",
+        "description": "Błonie, Chrustowa, Chwalców, Górala, Jasna, Kątek, Krakowska, Lipowa , Niepołomicka, Podłęska, Pod Gwiazdami, Różana, Sportowa, Śliczna, Torowa, Wygodna",
+        "calendar_file": "calendar/niepolomice/niepolomice_5.json",
+        "chat_id": "-1001889580856",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "niepolomice/niepolomice_6",
+        "description": "FR. Książka, Grabska, Ignacego-Lukasiewica Poręby, Portowa, Rolnicza, Skarbowa, Spokojna, Wałowa, Witosa",
+        "calendar_file": "calendar/niepolomice/niepolomice_6.json",
+        "chat_id": "-1001671470088",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "niepolomice/niepolomice_7",
+        "description": "Bocheńska, Długa, Droga Królewska, Grzybowa, Kątowa, Królowej Bany Kusocińskiego, Księżycowa, Myśliwska, Okrężna, os. Błoto, Osiediowa,Oriona, Piaskowa, Pies, Roweckiego, Pieska Sadyby, Smutna, Sosnowa, Syriusza Ścieżka Głogowa,Szkoina do Kusocińskiego, Ułanów, Wspólna, Ziemby, Zawiła",
+        "calendar_file": "calendar/niepolomice/niepolomice_7.json",
+        "chat_id": "-1001885604022",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "niepolomice/niepolomice_8",
+        "description": "Bohaterów Getta, Bohaterow Westerplatłe, Brzozowa, Czumy, Jagodowa, Korczaka, Leśna, Litewska, Marudy, Modrzejewskiej, Modrzewiowa, Opłotki, Partyzantów, Sikorskiego, Solskiego, Świerkowa, Wąska, Wojska Polskiego Wyzwolenia, Zakale",
+        "calendar_file": "calendar/niepolomice/niepolomice_8.json",
+        "chat_id": "-1001903463439",
+        "schedule_time": "16:00"
+    },
+    {
+        "id": "niepolomice/niepolomice_9",
+        "description": "Fabryczna, Grunwaldzka, Pl. Kazimierza Wielkiego, Kopernika, Księcia Witolda, Mickiewicza, Młyńska, Moczyclio, Ogrodowa, Parkowa, Plac Zwycięstwa, Robotnicza, Os. Robotnicze, Rynek, Sadowa, Spółdzielcza, Szewska, Zagrody,Zbożowa, Zamkowa",
+        "calendar_file": "calendar/niepolomice/niepolomice_9.json",
+        "chat_id": "-1001527986140",
         "schedule_time": "16:00"
     }
 ]
