@@ -134,5 +134,59 @@
         "events": [
             "odpady wielogabarytowe"
         ]
+    },
+    {
+        "date": "2024-01-04",
+        "events": [
+            "odpady zmieszane 🚮"
+        ]
+    },
+    {
+        "date": "2024-01-18",
+        "events": [
+            "odpady zmieszane 🚮"
+        ]
+    },
+    {
+        "date": "2024-02-01",
+        "events": [
+            "odpady zmieszane 🚮"
+        ]
+    },
+    {
+        "date": "2024-02-15",
+        "events": [
+            "odpady zmieszane 🚮"
+        ]
+    },
+    {
+        "date": "2024-02-29",
+        "events": [
+            "odpady zmieszane 🚮"
+        ]
+    },
+    {
+        "date": "2024-01-04",
+        "events": [
+            "odpady BIO 🍂"
+        ]
+    },
+    {
+        "date": "2024-02-01",
+        "events": [
+            "odpady BIO 🍂"
+        ]
+    },
+    {
+        "date": "2024-01-12",
+        "events": [
+            "odpady segregowane ♻️"
+        ]
+    },
+    {
+        "date": "2024-02-09",
+        "events": [
+            "odpady segregowane ♻️"
+        ]
     }
 ]

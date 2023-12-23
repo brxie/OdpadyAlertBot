@@ -134,5 +134,59 @@
             "zużyty sprzęt RTV i AGD",
             "odpady wielogabarytowe"
         ]
+    },
+    {
+        "date": "2023-12-28",
+        "events": [
+            "odpady zmieszane 🚮 (za czwartek 01.01.2024)"
+        ]
+    },
+    {
+        "date": "2024-01-15",
+        "events": [
+            "odpady zmieszane 🚮"
+        ]
+    },
+    {
+        "date": "2024-01-29",
+        "events": [
+            "odpady zmieszane 🚮"
+        ]
+    },
+    {
+        "date": "2024-02-12",
+        "events": [
+            "odpady zmieszane 🚮"
+        ]
+    },
+    {
+        "date": "2024-02-26",
+        "events": [
+            "odpady zmieszane 🚮"
+        ]
+    },
+    {
+        "date": "2023-12-27",
+        "events": [
+            "odpady BIO 🍂 (za 01.01.2024r)"
+        ]
+    },
+    {
+        "date": "2024-02-12",
+        "events": [
+            "odpady BIO 🍂"
+        ]
+    },
+    {
+        "date": "2024-01-09",
+        "events": [
+            "odpady segregowane ♻️"
+        ]
+    },
+    {
+        "date": "2024-02-13",
+        "events": [
+            "odpady segregowane ♻️"
+        ]
     }
 ]
