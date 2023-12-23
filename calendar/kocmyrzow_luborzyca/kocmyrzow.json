@@ -63,24 +63,6 @@
         ]
     },
     {
-        "date": "2023-11-10",
-        "events": [
-            "odpady BIO 🍂"
-        ]
-    },
-    {
-        "date": "2023-11-17",
-        "events": [
-            "odpady zmieszane 🚮"
-        ]
-    },
-    {
-        "date": "2023-12-01",
-        "events": [
-            "odpady zmieszane 🚮"
-        ]
-    },
-    {
         "date": "2023-12-08",
         "events": [
             "odpady BIO 🍂"
@@ -144,7 +126,8 @@
     {
         "date": "2024-01-12",
         "events": [
-            "odpady zmieszane 🚮"
+            "odpady zmieszane 🚮",
+            "odpady BIO 🍂"
         ]
     },
     {
@@ -156,25 +139,14 @@
     {
         "date": "2024-02-09",
         "events": [
-            "odpady zmieszane 🚮"
+            "odpady zmieszane 🚮",
+            "odpady BIO 🍂"
         ]
     },
     {
         "date": "2024-02-23",
         "events": [
             "odpady zmieszane 🚮"
-        ]
-    },
-    {
-        "date": "2024-01-12",
-        "events": [
-            "odpady BIO 🍂"
-        ]
-    },
-    {
-        "date": "2024-02-09",
-        "events": [
-            "odpady BIO 🍂"
         ]
     },
     {

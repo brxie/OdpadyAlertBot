@@ -145,7 +145,8 @@
     {
         "date": "2024-01-04",
         "events": [
-            "odpady zmieszane 🚮"
+            "odpady zmieszane 🚮",
+            "odpady BIO 🍂"
         ]
     },
     {
@@ -157,7 +158,8 @@
     {
         "date": "2024-02-01",
         "events": [
-            "odpady zmieszane 🚮"
+            "odpady zmieszane 🚮",
+            "odpady BIO 🍂"
         ]
     },
     {
@@ -170,18 +172,6 @@
         "date": "2024-02-29",
         "events": [
             "odpady zmieszane 🚮"
-        ]
-    },
-    {
-        "date": "2024-01-04",
-        "events": [
-            "odpady BIO 🍂"
-        ]
-    },
-    {
-        "date": "2024-02-01",
-        "events": [
-            "odpady BIO 🍂"
         ]
     },
     {
