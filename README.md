@@ -12,7 +12,6 @@
 | Głęboka                     | https://t.me/+lCK3aBPvwpowOGZk |
 | Goszcza                     | https://t.me/+53xmmarm0IA5MmFk |
 | Goszyce                     | https://t.me/+XdZeFlkQxuwzNmRk |
-| Goszyce                     | https://t.me/+XdZeFlkQxuwzNmRk |
 | Karniów                     | https://t.me/+N6bkEKB3TjpiMTM0 |
 | Kocmyrzów                   | https://t.me/+53tVWYt7IQZkNzY0 |
 | Krzysztoforzyce             | https://t.me/+a3af4jzkWYJkOTJk |
