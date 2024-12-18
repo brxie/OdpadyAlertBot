@@ -2,7 +2,6 @@
     {
         "id": "test",
         "calendar_file": "calendar/test.json",
-        "chat_id": "-1001981552523",
-        "schedule_time": "20:00"
+        "chat_id": "-1001981552523"
     }
 ]

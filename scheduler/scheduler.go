@@ -3,16 +3,20 @@ package scheduler
 import (
 	"fmt"
 	"log"
+	"os"
 	"strings"
 	"time"
 
 	"github.com/brxie/OdpadyAlertBot/config"
 )
 
-const nextTrigCheckBackoff = time.Minute
+const (
+	nextTrigCheckBackoff = time.Minute
+	defaultScheduleTime  = "16:00"
+)
 
 func Run(region config.Region, events []config.Event, errCh chan error, cb func(e config.Event, scheduledDate time.Time)) {
-	regionSchedTime, err := time.Parse("15:04", region.ScheduleTime)
+	regionSchedTime, err := getScheduleTime(region)
 	if err != nil {
 		errCh <- fmt.Errorf("unrecoverable scheduler error, can't parse scheduled time, region '%s': %v", region.ID, err)
 		return
@@ -51,4 +55,16 @@ func Run(region config.Region, events []config.Event, errCh chan error, cb func(
 		}
 		time.Sleep(nextTrigCheckBackoff)
 	}
+}
+
+func getScheduleTime(region config.Region) (time.Time, error) {
+	if region.ScheduleTime == "" {
+		if scheduleTime := os.Getenv("SCHEDULE_TIME"); scheduleTime != "" {
+			region.ScheduleTime = scheduleTime
+		} else {
+			region.ScheduleTime = defaultScheduleTime
+		}
+	}
+	regionSchedTime, err := time.Parse("15:04", region.ScheduleTime)
+	return regionSchedTime, err
 }
