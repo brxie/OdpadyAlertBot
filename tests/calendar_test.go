@@ -14,7 +14,7 @@ import (
 	"github.com/brxie/OdpadyAlertBot/config"
 )
 
-const calendarDir = "calendar"
+const calendarDir = "./../calendar"
 
 func TestNoDuplicatedDays(t *testing.T) {
 	err := filepath.Walk(calendarDir,
