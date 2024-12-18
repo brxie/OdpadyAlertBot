@@ -13,7 +13,7 @@ import (
 
 const notifiFmtStrPL = "🔔 jutro (%s) odbiór odpadów:\n\n"
 
-func SchedulerCallback(client *telegram.Telegram, region config.Region) func(e config.Event, scheduledDate time.Time) {
+func SchedulerCallback(client NotificationSystem, region config.Region) func(e config.Event, scheduledDate time.Time) {
 
 	return func(e config.Event, scheduledDate time.Time) {
 		var sb strings.Builder
