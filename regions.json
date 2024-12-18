@@ -1,11 +1,5 @@
 [
     {
-        "id": "test",
-        "calendar_file": "calendar/test.json",
-        "chat_id": "-1001981552523",
-        "schedule_time": "20:00"
-    },
-    {
         "id": "kocmyrzow_luborzyca/rawalowice",
         "calendar_file": "calendar/kocmyrzow_luborzyca/rawalowice.json",
         "chat_id": "-1001519647479",

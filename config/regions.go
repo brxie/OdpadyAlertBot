@@ -16,7 +16,13 @@ type Region struct {
 }
 
 func LoadRegions() ([]Region, error) {
-	regionsFile, err := os.Open(regionsFile)
+	// Get the regions file name from the environment variable, default to regionsFile if not set
+	fileName := os.Getenv("REGIONS_FILE")
+	if fileName == "" {
+		fileName = regionsFile
+	}
+
+	regionsFile, err := os.Open(fileName)
 	if err != nil {
 		return nil, fmt.Errorf("can not open regions file: %v", err)
 	}
