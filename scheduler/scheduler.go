@@ -28,8 +28,8 @@ func Run(region config.Region, events []config.Event, errCh chan error, cb func(
 			now.Year(), now.Month(), now.Day(),
 			regionSchedTime.Hour(), regionSchedTime.Minute(), regionSchedTime.Second(), regionSchedTime.Nanosecond(), time.Local)
 
-		// if trigger time is from past this means it was already sent in this day and
-		// we should wait until next day which is nearest possible day of event
+		// if trigger time is from the past, this means it was already sent today and
+		// we should wait until the next day which is the nearest possible day of the event
 		if now.Sub(nextSchedCheckTime) > time.Second*10 {
 			nextSchedCheckTime = nextSchedCheckTime.Add(time.Hour * 24)
 		}
