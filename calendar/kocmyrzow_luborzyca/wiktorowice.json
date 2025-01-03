@@ -1,7 +1,8 @@
 [
     {"date": "2025-01-10", "events": ["odpady zmieszane 🚮", "odpady BIO 🍂"]},
     {"date": "2025-01-24", "events": ["odpady zmieszane 🚮", "odpady segregowane ♻️"]},
+    {"date": "2025-01-27", "events": ["odpady segregowane ♻️"]},
     {"date": "2025-02-07", "events": ["odpady zmieszane 🚮", "odpady BIO 🍂"]},
-    {"date": "2025-01-21", "events": ["odpady zmieszane 🚮"]},
-    {"date": "2025-02-27", "events": ["odpady segregowane ♻️"]}
+    {"date": "2025-02-21", "events": ["odpady zmieszane 🚮"]},
+    {"date": "2025-02-24", "events": ["odpady segregowane ♻️"]}
 ]

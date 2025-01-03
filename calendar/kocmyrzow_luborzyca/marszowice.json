@@ -8,12 +8,6 @@
         ]
     },
     {
-        "date": "2025-02-14",
-        "events": [
-            "odpady BIO 🍂"
-        ]
-    },
-    {
         "date": "2025-01-21",
         "events": [
             "odpady zmieszane 🚮"
@@ -22,6 +16,8 @@
     {
         "date": "2025-02-04",
         "events": [
+            "odpady zmieszane 🚮",
+            "odpady BIO 🍂",
             "odpady segregowane ♻️"
         ]
     },
